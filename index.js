@@ -34,3 +34,4 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
     console.log(`Travel Guru running on port ${port}`)
 })
+module.exports = app;
