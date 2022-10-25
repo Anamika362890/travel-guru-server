@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Cox's Bazar",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.com%2FTourism-g667467-Cox_s_Bazar_Chittagong_Division-Vacations.html&psig=AOvVaw0ORaVwxj_H0u29xtWOGP9o&ust=1666629766164000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjKtevl9voCFQAAAAAdAAAAABAE",
+        "about": "Cox's Bazar sea beach is the longest sea beach in the world, 120 km long, having no 2nd instance. The wavy water of Bay of Bengal touches the beach throughout this 120 km.For Bangladeshi's it doesn't get much better than Cox's Bazar, the country's most popular beach town than the other one 'Kuakata beach town. It's sort of a Cancun of the east. It's choc-a-bloc with massive well-architectures concrete structures, affluent 5 & 3 star hotels, catering largely to the country's elite and overseas tourists. ",
+        "types": "Sea"
+    },
+    {
+        "id": "2",
+        "name": "Sreemangal",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fchokkor.com%2Fsreemangal-2%2F&psig=AOvVaw1FEvCWI_ZRdP5fhgEPATQb&ust=1666630177236000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPD_37Hn9voCFQAAAAAdAAAAABAD",
+        "about": "Sreemangal is often referred to as the 'tea capital' of Bangladesh, and is most famous for its tea fields. Other than tea, the rubber, pineapple, wood, betel, and lemon industries also exist in the upazila.",
+        "types": "Green"
+    },
+    {
+        "id": "3",
+        "name": "Sundarban",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.holidify.com%2Fplaces%2Fsundarban-national-park%2F&psig=AOvVaw2SWqWlL15oFAjRa2G5gMU6&ust=1666630343968000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCID724Ho9voCFQAAAAAdAAAAABAR",
+        "about": "The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India’s Sundarbans World Heritage site inscribed in 1987. The site is intersected by a complex network of tidal waterways, mudflats and small islands of salt-tolerant mangrove forests, and presents an excellent example of ongoing ecological processes. The area is known for its wide range of fauna, including 260 bird species, the Bengal tiger and other threatened species such as the estuarine crocodile and the Indian python.",
+        "types": "Animal"
+    },
+    {
+        "id": "4",
+        "name": "Sajek",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSajek_Valley&psig=AOvVaw2gCvqp-bjaVqXRKKmKKxXA&ust=1666630552043000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMDynePo9voCFQAAAAAdAAAAABAD",
+        "about": "Sajek valley is known for its natural environment and is surrounded by mountains, dense forest, and grassland hill tracks. Many small rivers flow through the mountains among which the Kachalong and the Machalong are notable. On the way to Sajek valley, one has to cross the Mayni range and the Mayni river.",
+        "types": "Green"
+    },
+    {
+        "id": "5",
+        "name": "Bandarban",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funb.com.bd%2Fcategory%2FLifestyle%2Fbandarban-tourist-spots-best-places-to-see-and-craziest-things-to-do%2F42687&psig=AOvVaw2lissCKvecg-WTx2bE5i15&ust=1666630610984000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPDLpP_o9voCFQAAAAAdAAAAABAD",
+        "about": "Bandarban Hill District is the most remote and least populated district in Bangladesh. The lure of the tallest peaks of Bangladesh, treks through virgin forests and chance to meet more than 15 tribes of the region up close is growing both among Bangladeshis and tourists from other countries. Since the insurgency ceased in the Chittagong Hill Tracts (a cluster that includes all three hill districts of Bangladesh) it has opened up for tourists more than a decade back, though some of the western tourist guides may still describe the area as a major security risk.",
+        "types": "Green"
+    },
+    {
+        "id": "6",
+        "name": "Rangamati",
+        "img": "https://vromonguide.com/wp-content/uploads/Hotel-Resort-List-Of-Rangamati-770x420.jpg",
+        "about": "Rangamati is one of the most picturesque districts in Bangladesh in the region of hill tracts. Thus this district is amongst the most attractive tourist destinations in Bangladesh. Located in the southeastern Bangladesh, Rangamati has a hilly landscape persuaded by the Kaptai dam and its beautiful lake",
+        "types": "Green"
+    }
+]
